@@ -1,0 +1,27 @@
+{
+  "name": "exp-frontend",
+  "version": "1.0.0",
+  "description": "practice with css and clientside js in express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamniama/exp-frontend.git"
+  },
+  "author": "JCNorth/IAMNIAMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamniama/exp-frontend/issues"
+  },
+  "homepage": "https://github.com/iamniama/exp-frontend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "method-override": "^3.0.0"
+  }
+}
